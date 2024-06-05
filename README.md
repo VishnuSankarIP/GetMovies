@@ -1,4 +1,5 @@
 Its Build using React and Json server
+In Json server the db.json file contain the movies data 
 
 TECHNOLOGY USED:-
 React single page application,
