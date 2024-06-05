@@ -1,9 +1,9 @@
 Its Build using React and Json server
 
 TECHNOLOGY USED
-React single page application
-Routing done using React Router
-React bootstrap for styling
+React single page application,
+Routing done using React Router,
+React bootstrap for styling,
 Axios for Api call
 
 RUN FRONTEND SERVER LOCALLY
